@@ -23,6 +23,21 @@ Death rate of covid 19 cases:
 ![image](https://user-images.githubusercontent.com/99461999/178843471-dcd91a0a-aa26-4557-aed4-572eaa4603ea.png)
 
 # Analyzing Covid-19 Impacts on Economy :
+![image](https://user-images.githubusercontent.com/99461999/178845100-351f2aaa-e92a-470f-b65c-49ab51fbe49a.png)
+![image](https://user-images.githubusercontent.com/99461999/178845255-19d5c218-ca64-434f-a708-1c0c74dafaab.png)
+![image](https://user-images.githubusercontent.com/99461999/178845467-48f69959-2eb4-46b5-ba05-7417e1071c0c.png)
+
+## Conclusion
+In this task, I investigated the spread of Covid-19 between countries and its impact on the world economy. With the outbreak of Covid-19, the number of cases and deaths of Covid-19 is the highest in the United States. The main reason for this is an indicator of US rigor. It is relatively small when measured against the population. I also analyzed how per capita GDP in each country was affected during the outbreak of Covid-19.
+
+## Tools and Technology Used:
+1 Python Libraries : 
+   1. Pandas :data manipulation and analysis
+   2. Plotly Express : Provides functions to visualize a variety of types of data.Easy to style the figures.
+   3. plotly. graph_objects : An automatically-generated hierarchy of Python classes which represent non-leaf nodes in this figure schema.
+
+
+
 
 
 
